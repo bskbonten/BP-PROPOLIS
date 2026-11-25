@@ -8,7 +8,7 @@ export const company = {
   whatsappDisplay: '085641950363',
   contactPerson: 'Dwi Margi',
   address: 'Dermayu Karangrejo 03/03 selomerto Wonosobo Jawa Tengah',
-  hours: ['Jam 7 sampai jam 8 malam', 'Konsultasi gratis via WhatsApp'],
+  hours: ['Jam 07:00 sampai jam 20:00 malam', 'Konsultasi gratis via WhatsApp'],
   social: { instagram: 'https://instagram.com/', facebook: 'https://facebook.com/' },
   currencyLocale: 'id-ID',
   currency: 'IDR',

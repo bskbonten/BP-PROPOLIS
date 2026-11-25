@@ -23,7 +23,7 @@ export default function About() {
           <div className="lg:col-span-5">
             <h2 className="font-serif text-3xl text-cocoa sm:text-4xl lg:text-5xl">Tentang {company.name}</h2>
             <p className="mt-2 text-sm leading-relaxed text-charcoal/75 sm:mt-4 sm:text-base">
-              Mitra resmi British Propolis untuk suplemen kesehatan alami dan skincare Belgie. Buka 24 jam untuk membantu Anda dan keluarga hidup lebih sehat.
+              Mitra resmi British Propolis untuk suplemen kesehatan alami dan skincare Belgie. Buka dari jam 07:00 sampai 20:00 untuk membantu Anda dan keluarga hidup lebih sehat.
             </p>
             <p className="mt-2 text-xs text-charcoal/55 sm:text-sm">Suplemen bukan pengganti obat. Untuk kondisi medis tertentu, konsultasikan dengan dokter.</p>
           </div>
