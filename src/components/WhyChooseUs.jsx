@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import { Gem, Smile, Handshake, BookOpenCheck, X, ZoomIn } from 'lucide-react'
 
 // Taruh gambarnya di: public/images/daftar-harga.png
-const PRICE_IMG = '/harga.png'
+const PRICE_IMG = '/images/harga.jpg'
 
 const items = [
   { icon: Gem, title: 'Produk Berkualitas', text: 'Produk BP Group dan Belgie berlabel halal dan terdaftar BPOM.' },
